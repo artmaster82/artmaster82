@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello!
+I am artmaster82, but you can just call me art. I have been a developer in some form since 2015, currently I work on Discord bots in Javascript.
 
-<!--
-**artmaster82/artmaster82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+20 | He/Him | Gay | Auckland, New Zealand
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Commissions
+I am open to commissions for new private Discord bots. Have a chat to me on Discord (artmaster82#0001).
+
+Disclamer: Your bot's code will be viewable here, however ***it is not intended to be executed yourself.*** All bots will be hosted myself.
+
+
+## Current projects:
+None.
+
+
+## Upcoming projects:
+Marven (?)
+
+
+## Discontinued projects:
+None.
