@@ -4,8 +4,8 @@ I am artmaster82, but you can just call me art. I have been a developer in some 
 20 | He/Him | Gay | Auckland, New Zealand
 
 
-## Commissions
-I am open to commissions for new private Discord bots. Have a chat to me on Discord (artmaster82#0001).
+## Custom bots
+If you need a Discord bot, have a chat to me on Discord (artmaster82#0001).
 
 Disclamer: Your bot's code will be viewable here, however ***it is not intended to be executed yourself.*** All bots will be hosted myself.
 
